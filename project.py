@@ -120,7 +120,7 @@ def view_projects():
     else:
         for  p in projects:
             
-            print(f"Title: {p['title']}")
+            print(f"\nTitle: {p['title']}")
             print(f"Details: {p['details']}")
             print(f"Target: {p['target']} EGP")
             print(f"Start: {p['start_date']} | End: {p['end_date']}")

@@ -2,6 +2,7 @@
 
 A simple Python console application to simulate a crowdfunding platform. Users can register, log in, create fundraising projects, manage them, and donate to others — all via the terminal.
 
+wanna try it out !! https://replit.com/@ahmedmsalem020/Crowd-Funding-Console-App-Python
 ---
 
 ## 🚀 Features
